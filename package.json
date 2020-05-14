@@ -209,7 +209,7 @@
     "dependencies": {
         "fs-extra": "^6.0.1",
         "html-entities": "^1.2.1",
-        "humanize-duration": "^3.15.1",
+        "humanize-duration": "^3.22.0",
         "lodash": "^4.17.10",
         "marked": "^0.4.0",
         "sanitize-filename": "^1.6.1",
